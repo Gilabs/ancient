@@ -3,9 +3,9 @@
     [
   {
     "id":1,
-    "judul":"Quantum Physics",
-    "image":"https://play-lh.googleusercontent.com/GbPJSO0XyjWxhuyFJ-ka8DAqyoxk9_esiA0b8cVac3pQpc9NX8SfW1MPJ7VTAO2kjdc=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.quantum.ofphysics"
+    "judul":"List Of Cancer Types",
+    "image":"https://play-lh.googleusercontent.com/4Wwi9NgLkRuDa2SPNtNz95tqTGk3tlpXeMOgfU0sJ5I_kHCo9s4yMExPu8_oHZvSlxzI=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.listofcancer.type"
   },
   {
     "id":2,
@@ -96,6 +96,12 @@
     "judul":"car engines",
     "image":"https://play-lh.googleusercontent.com/e6XiarnlNGDD6PpYOOK0qgKASisWy7UdbTtEpJTSQPgQVUsjzARHF-QLBwSqYDYQnnk=s180-rw",
     "link":"https://play.google.com/store/apps/details?id=com.car.engines"
+  },
+  {
+    "id":17,
+    "judul":"Quantum Physics",
+    "image":"https://play-lh.googleusercontent.com/GbPJSO0XyjWxhuyFJ-ka8DAqyoxk9_esiA0b8cVac3pQpc9NX8SfW1MPJ7VTAO2kjdc=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.quantum.ofphysics"
   }
 ],
 
